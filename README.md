@@ -1,5 +1,5 @@
 [Remotes Handler](https://www.roblox.com/library/14332266448/Remotes-Handler)
-If u had problem with adding HashLib module, just import the Original HashLib module by [BoatBomber](https://devforum.roblox.com/t/hashlib-cryptographic-hashes-in-pure-lua/416732) inside module!
+If u had problem with adding HashLib module, just import the Original HashLib module by [BoatBomber](https://devforum.roblox.com/t/hashlib-cryptographic-hashes-in-pure-lua/416732) inside module! or just get the module by the `Remotes Handler` link
 
 ## DESCRIPTION
 Remotes Handler is a Module that handle all remotes that are created using this module, this module will hide the module name with HashLib by boatbomber's HashLib Module.
