@@ -4,6 +4,8 @@
 Remotes Handler is a Module that handle all remotes that are created using this module, this module will hide the module name with HashLib by boatbomber's HashLib Module.
 Feel free to use this module, no need to credit if u don't want ;)
 
+#### YOU CAN CHANGE HOW THE REMOTE NAME ENCRYPTIONS WORKS BY CHANGING `EncryptionType` INSIDE THE MODULE
+
 ## USAGES
 this Module only have 2 functions, `Function()` and `Event()`
 
